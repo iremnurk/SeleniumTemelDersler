@@ -34,8 +34,7 @@ public class Test9 {
 
         driver.close(); //sayfayı kapatır,
         // driver close() ile kill edilmiyor.
-        // quit() driver'ı kill eder
-
+        // quit() driver'ı kill eder.
 
 
 
